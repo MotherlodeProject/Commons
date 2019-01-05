@@ -1,0 +1,11 @@
+{
+  "id": "commons",
+  "name": "Commons",
+  "version": "$version",
+  "side": "universal",
+  "initializers": [
+  ],
+  "description": "A common library for the Motherlode Project",
+  "mixins": {
+  }
+}
