@@ -77,11 +77,11 @@ uploadArchives {
 					name project.archivesBaseName
 					packaging 'jar'
 					description project.archivesBaseName
-					url 'https://github.com/MotherlodeMod/Commons'
+					url 'https://github.com/MotherlodeProject/Commons'
 					scm {
-						url 'https://github.com/MotherlodeMod/Commons'
-						connection 'scm:git:git@github.com:MotherlodeMod/Commons.git'
-						developerConnection 'scm:git:git@github.com:MotherlodeMod/Commons.git'
+						url 'https://github.com/MotherlodeProject/Commons'
+						connection 'scm:git:git@github.com:MotherlodeProject/Commons.git'
+						developerConnection 'scm:git:git@github.com:MotherlodeProject/Commons.git'
 					}
 				}
 			}
